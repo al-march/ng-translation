@@ -1,0 +1,1 @@
+export const lambda: string = 'im work!!'
